@@ -1,8 +1,3 @@
-from weasyprint import HTML
-
-# Content for the README.md in a text format
-readme_content = """# NeuroGlove: EEG-Powered Pneumatic Hand Rehabilitation System
-
 ![Project Header](https://raw.githubusercontent.com/ersozberk/eeg_robotic_glove/main/eeg.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
