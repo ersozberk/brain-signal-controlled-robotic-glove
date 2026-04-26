@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/badge/Build-Success-brightgreen.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Arduino%20%7C%20Python-blue.svg)]()
 
-**NeuroGlove** is an innovative Assistive Technology (AT) solution designed for patients with hemiplegia or hand paralysis. By utilizing Brain-Computer Interface (BCI) technology, this system decodes neural oscillations via EEG and translates them into physical movement through a soft-robotic pneumatic glove.
+**NeuroGlove** is an innovative Assistive Technology solution designed for patients with hemiplegia or hand paralysis. By utilizing Brain-Computer Interface (BCI) technology, this system decodes neural oscillations via EEG and translates them into physical movement through a soft-robotic pneumatic glove.
 
 ## 🚀 Key Features
 
